@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/seed-db-regression-886",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/seed-db-regression-886": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/seed-db-regression-886",
+    "origin"
+  ]
+}
